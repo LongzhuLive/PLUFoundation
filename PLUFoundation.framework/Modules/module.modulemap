@@ -1,0 +1,6 @@
+framework module PLUFoundation {
+  umbrella header "PLUFoundation.h"
+
+  export *
+  module * { export * }
+}
