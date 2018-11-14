@@ -17,7 +17,7 @@
 #import "NSString+Formatter.h"
 #import "NSString+HTML.h"
 #import "NSString+Validate.h"
-#import "NSString+UploadCover.h
+#import "NSString+UploadCover.h"
 #import "NSMutableAttributedString+Attributes.h"
 #import "NSString+predicate.h"
 #import "NSObject+PLUExchangeMethod.h"
